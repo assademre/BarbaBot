@@ -12,7 +12,7 @@ https://weather.visualcrossing.com (For weather reports)
 
 https://www.currencyconverterapi.com/ (For exchange rates).
 
-##How it works
+## How it works
 
 ### Intents File
 Intents file is the file which contains the database of the possible answers.The format of the file is JSON, and it is formed by three part:
